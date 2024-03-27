@@ -1,10 +1,12 @@
-# React + Vite
+# GuitarLA - Carrito de Compras de Guitarras - Con custom Hooks (prácticas)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un carrito de compras desarrollado con React y Vite, que simula una tienda de guitarras.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# GuitarLA
-# GuitarLA-CustomHooks
+Puedes ver una demostración del proyecto [aquí](https://fantastic-duckanoo-1e5f49.netlify.app/).
+
+
+## Curso Relacionado
+
+He desarrollado este proyecto como parte del curso [React y TypeScript - La Guía Completa Creando +10 Proyectos](https://www.udemy.com/share/101Wpi3/).
