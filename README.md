@@ -4,7 +4,7 @@ Este proyecto es un carrito de compras desarrollado con React y Vite, que simula
 
 ## Demo
 
-Puedes ver una demostración del proyecto [aquí](https://fantastic-duckanoo-1e5f49.netlify.app/).
+Puedes ver una demostración del proyecto [aquí](https://guitarlaarg.netlify.app/).
 
 
 ## Curso Relacionado
